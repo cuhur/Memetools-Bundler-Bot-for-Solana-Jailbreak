@@ -14,3 +14,4 @@ Jailbreaked Version of Memetools Bundler Bot for Solana
 The bot will not run without the electron app, because the electron app contains some important functions for the bot.
 # memetools.fun
 # memetools.fun
+# memetools.fun
