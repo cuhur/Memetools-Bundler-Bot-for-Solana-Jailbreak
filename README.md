@@ -2,6 +2,8 @@
 
 Jailbreaked Version of Memetools 1.4.2 Bundler Bot for Solana
 
+![Screenshit](screenshot.avif)
+
 ## Getting started
 
 - Clone the Repository
