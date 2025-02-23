@@ -1,0 +1,57 @@
+{
+  "../node_modules/@supabase/auth-js/dist/module/lib/helpers.js -> @supabase/node-fetch": {
+    "id": 485,
+    "files": []
+  },
+  "../node_modules/@supabase/functions-js/dist/module/helper.js -> @supabase/node-fetch": {
+    "id": 485,
+    "files": []
+  },
+  "../node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js -> @supabase/node-fetch": {
+    "id": 485,
+    "files": []
+  },
+  "../node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js -> ws": {
+    "id": 4495,
+    "files": [
+      "static/chunks/495.8c46cda731d2088e.js"
+    ]
+  },
+  "../node_modules/@supabase/storage-js/dist/module/lib/helpers.js -> @supabase/node-fetch": {
+    "id": 485,
+    "files": []
+  },
+  "app/(main)/moonshot/page.tsx -> ../../../components/Moonshot/Volume": {
+    "id": 9758,
+    "files": [
+      "static/chunks/758.08cc738fa13ae81c.js"
+    ]
+  },
+  "app/(main)/pump/page.tsx -> ../../../components/Pumpfun/Bumpit": {
+    "id": 1736,
+    "files": [
+      "static/chunks/736.d55c3a0e34e38080.js"
+    ]
+  },
+  "app/(main)/pump/page.tsx -> ../../../components/Pumpfun/Human": {
+    "id": 3623,
+    "files": [
+      "static/chunks/623.9df31ed482eed43a.js"
+    ]
+  },
+  "app/(main)/pump/page.tsx -> ../../../components/Pumpfun/Volume": {
+    "id": 7873,
+    "files": [
+      "static/chunks/873.46ee12a8353c0783.js"
+    ]
+  },
+  "app/(main)/raydium/page.tsx -> ../../../components/Raydium/Volume": {
+    "id": 4375,
+    "files": [
+      "static/chunks/3a91511d-928daa17f44127cb.js",
+      "static/chunks/957-f3bac9f362aac4b0.js",
+      "static/chunks/335-6b179dc2fbe76b40.js",
+      "static/chunks/780.a88abc916b3c4072.js"
+    ]
+  }
+}
